@@ -26,7 +26,7 @@ This is a formatted JSON sample input, with one sample child (with both a parent
   {
     "name": "Men",
     "id": 20,
-    "parent_id": null,
+    "parent_id": null
   }
 ]
 ```
